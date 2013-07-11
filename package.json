@@ -1,7 +1,7 @@
 {
 	"name": "kinecter",
 
-	"version": "v0.0.1",
+	"version": "v0.0.2",
 
 	"scripts": {
 		"preinstall": "node-gyp configure build"
@@ -19,6 +19,6 @@
 
 	"repository": {
 		"type": "git",
-		"url": "https://C0deMaver1ck@bitbucket.org/C0deMaver1ck/kinecter.git"
+		"url": "https://bitbucket.org/C0deMaver1ck/kinecter.git"
 	}
 }
