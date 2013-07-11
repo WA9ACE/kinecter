@@ -1,0 +1,24 @@
+{
+	"name": "kinecter",
+
+	"version": "v0.0.1",
+
+	"scripts": {
+		"preinstall": "node-gyp configure build"
+	},
+
+	"main": "build/Release/kinecter.node",
+
+	"description": "Native extension for interfacing with Microsoft's Official Kinect SDK for Windows",
+	"homepage": "https://bitbucket.org/C0deMaver1ck/kinecter",
+	"author": {
+		"name": "Caleb Albritton",
+		"email": "ithinkincode@gmail.com",
+		"url": "http://ithinkinco.de"
+	},
+
+	"repository": {
+		"type": "git",
+		"url": "https://C0deMaver1ck@bitbucket.org/C0deMaver1ck/kinecter.git"
+	}
+}
